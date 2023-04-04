@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/tile_index_generator" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
